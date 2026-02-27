@@ -1,0 +1,36 @@
+{
+  "single_user": [
+    {
+      "id": 123,
+      "username": "nisha",
+      "firstName": "SahayaNisha",
+      "lastName": "J",
+      "email": "nisha@gmail.com",
+      "password": "Password123",
+      "phone": "1234567890",
+      "userStatus": 1
+    }
+  ],
+  "multiple_users": [
+    {
+      "id":345,
+      "username": "Norah",
+      "firstName": "BeslinNorah",
+      "lastName": "BS",
+      "email": "norah@gmail.com",
+      "password": "Password123",
+      "phone": "1234567890",
+      "userStatus": 1
+    },
+    {
+      "id": 567,
+      "username": "Besto",
+      "firstName": "BestoBrightson",
+      "lastName": "N",
+      "email": "besto@gmail.com",
+      "password": "Password123",
+      "phone": "1234567890",
+      "userStatus": 1
+    }
+  ]
+}

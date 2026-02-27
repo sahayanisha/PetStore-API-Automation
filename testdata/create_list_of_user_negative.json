@@ -1,0 +1,14 @@
+{
+  "empty_array": [],
+  "object_instead_of_array": {"id": 1,"username": "bad"},
+  "null_element": [null],
+  "missing_username": [{
+    "id": 123,
+    "firstName": "SahayaNisha",
+    "lastName": "J",
+    "email": "nisha@gmail.com",
+    "password": "Password123",
+    "phone": "1234567890",
+    "userStatus": 1
+  }]
+}
